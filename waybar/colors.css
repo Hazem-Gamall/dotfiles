@@ -1,0 +1,20 @@
+@define-color bg            rgba(10, 10, 20, 0.85);
+@define-color fg            #fdfdfd;
+@define-color border        #ffb347;
+
+@define-color accent1       #ffa7c4;
+@define-color accent2       #ffd166;
+@define-color accent3       #00c8ff;
+
+@define-color cpu_color     #00f0ff;
+@define-color mem_color     #7df9ff;
+@define-color temp_color    #ff8c00;
+@define-color net_color     #8be9fd;
+@define-color pulse_color   #ff79c6;
+@define-color muted_color   #ff4d6d;
+@define-color batt_color    #50fa7b;
+@define-color charge_color  #00ffbf;
+@define-color warn_color    #ff5555;
+@define-color power_color   #ff6e6e;
+
+@define-color module_bg     #1e1a2e;
